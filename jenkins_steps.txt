@@ -1,4 +1,4 @@
-Steps
+*/Steps
 
 sudo apt update
 
@@ -20,4 +20,4 @@ echo "deb [signed-by=/etc/apt/keyrings/jenkins-keyring.asc]" \
   
   sudo systemctl status jenkins
   
-  
+  /*
